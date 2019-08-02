@@ -1,6 +1,9 @@
 # itermTmuxStatusbarComponent
 A set of tmux statusbar components that shows active windows, inactive or session name
 
+![Statusbar example shows inactive and active tmux windows](/screenshots/example.png)
+
+![Statusbar example shows current tmux session name](/screenshots/example2.png)
 ## Components
 
 ### Tmux Session Name
